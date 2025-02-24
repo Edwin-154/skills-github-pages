@@ -1,4 +1,4 @@
 ---
-title: "Welcome to my blog"
+title: Edcos
 date: 2024-02-24
 ---
